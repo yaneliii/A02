@@ -1,6 +1,6 @@
 # A02
 
-###Part 1 (Tutorial on Git, WebStorm, and GitHub):
+### Part 1 (Tutorial on Git, WebStorm, and GitHub):
 1. Download **Git**:
    - For Windows: You can download **Git** for free from https://git-scm.com/downloads.
    - For Mac: Typically, on MacOS, **Git** is already installed. However, if it is not, you can download it from Homebrew. First, install Homebrew by pasting "/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"" into the terminal. Then, to install **Git**, paste "brew install git" into the terminal.
@@ -32,3 +32,17 @@
    - A text box should appear; add your **commit** message and click "**Commit**."
    - **Push** your changes to the **remote** **repository** by selecting "**Git**" (at the top), then "**Push**."
    - Select the committed file and click "**Push**."
+
+### Part 2 (Glossary):
+- **Branch** - A copy of the **commit** history of the current (active) **branch**. This separate version allows users to work on features without affecting their master/main **branch**.
+- **Clone** - A **clone** is creating a copy of an existing **repository**, for instance, copying a **repository** from **GitHub** to your local machine.
+- **Commit** - The action of saving changes made to a file or set of files, almost like a checkpoint. Users should always have a message when they **commit**, such as a brief description of what has changed.
+- **Fetch** - To download/copy the latest files from a **branch** (in a **remote** **repository** like **Github**) to your workstation.
+- **GIT** - An open-source software used for tracking and documenting your changes in files via a version control system.
+- **Github** - A platform that hosts repositories and helps users store files, track code, and collaborate on projects (with version control).
+- **Merge** - To bring the content from one **branch** into another (typically main) **branch**, thus combining the changes.
+- **Merge Conflict** - Inconsistent changes in the same part/line of a file that prevents **branches** from merging. Users have to manually resolve the issue by choosing which changes to include.
+- **Push** - Updates your **remote** **repository** by uploading (local) committed changes to the **remote**.
+- **Pull** - Grabs any changes from a **remote** **repository** and **merges** them into your local **repository**.
+- **Remote** - This is a copy/version of your **repository** stored on another computer or server (like **GitHub**).
+- **Repository** - This is an object database of your project. You can think of it as a storage location that holds project files, their versions, and **commit** history.
