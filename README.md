@@ -46,3 +46,11 @@
 - **Pull** - Grabs any changes from a **remote** **repository** and **merges** them into your local **repository**.
 - **Remote** - This is a copy/version of your **repository** stored on another computer or server (like **GitHub**).
 - **Repository** - This is an object database of your project. You can think of it as a storage location that holds project files, their versions, and **commit** history.
+
+## References
+Ajibola, Segun. “How to Use Git and GitHub – Introduction for Beginners.” freeCodeCamp, 26 Sept. 2022, www.freecodecamp.org/news/introduction-to-git-and-github/#what-are-git-and-github. 
+GeeksforGeeks. “Git Merge and Merge Conflict.” GeeksforGeeks, 5 Apr. 2022, www.geeksforgeeks.org/git-merge-and-merge-conflict. 
+Git. “A Git Glossary.” Git, git-scm.com/docs/gitglossary#def_chain. 
+Hendela, Arthur. “Introduction to Github and Webstorm.” Canvas, 18 Mar. 2019, njit.instructure.com/courses/33677/files/5972199?module_item_id=1281701. 
+Krout, Elle. “Git Definitions and Terminology Cheat Sheet.” Pluralsight, 8 June 2023, www.pluralsight.com/resources/blog/cloud/git-terms-explained#merge. 
+W3Schools. “Git **Commit**.” W3Schools, www.w3schools.com/git/git_commit.asp.
